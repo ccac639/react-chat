@@ -1,0 +1,29 @@
+<changelist name="在进行更新之前于_2022_4_14_12_44_取消提交了变更_[变更]" date="1649911492059" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_4_14_12_44_取消提交了变更_[变更]/shelved.patch" />
+  <option name="DESCRIPTION" value="在进行更新之前于 2022/4/14 12:44 取消提交了变更 [变更]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="server/node_modules/bcrypt/lib/binding/napi-v3/bcrypt_lib.node" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_4_14_12_44_取消提交了变更_[变更]/bcrypt_lib.node" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="../../node/npm/mongdb父/mongodb/db/diagnostic.data/metrics.interim" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_4_14_12_44_取消提交了变更_[变更]/metrics.interim" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="server/node_modules/nodemon/bin/windows-kill.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_4_14_12_44_取消提交了变更_[变更]/windows-kill.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="server/node_modules/node-fetch/node_modules/tr46/lib/.gitkeep" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_4_14_12_44_取消提交了变更_[变更]/.gitkeep" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="server/node_modules/saslprep/code-points.mem" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2022_4_14_12_44_取消提交了变更_[变更]/code-points.mem" />
+  </binary>
+</changelist>
